@@ -9,7 +9,7 @@ Em desenvolvimento
 - CSS
 
 ## 👥 Time de Desenvolvedores
-- [Seu Nome]
+- [Marcos Vinicius Isteilo]
 
 ## 🎯 Objetivo do Software
 O Gerenciador de Tarefas tem como objetivo ajudar usuários a organizar suas atividades diárias de forma simples e eficiente, diretamente pelo navegador, sem necessidade de servidor ou banco de dados.
